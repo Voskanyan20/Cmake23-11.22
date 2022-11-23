@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMySum.a CMakeFiles/MySum.dir/src/calc.cpp.o
+/usr/bin/ranlib libMySum.a

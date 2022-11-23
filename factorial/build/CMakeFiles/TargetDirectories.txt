@@ -1,0 +1,9 @@
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/CMakeFiles/MyFactor.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/CMakeFiles/edit_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/CMakeFiles/rebuild_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/factorial/CMakeFiles/MyFact.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/factorial/CMakeFiles/edit_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/factorial/CMakeFiles/rebuild_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/bigNum/CMakeFiles/MyBigNum.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/bigNum/CMakeFiles/edit_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/factorial/build/bigNum/CMakeFiles/rebuild_cache.dir

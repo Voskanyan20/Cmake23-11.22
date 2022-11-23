@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyBigNum.a CMakeFiles/MyBigNum.dir/src/big.cpp.o
+/usr/bin/ranlib libMyBigNum.a

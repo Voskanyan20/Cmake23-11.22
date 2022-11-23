@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MyCalc.dir/src/main.cpp.o -o MyCalc  calc/libMySum.a 

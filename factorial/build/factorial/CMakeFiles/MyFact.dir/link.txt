@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyFact.a CMakeFiles/MyFact.dir/src/fact.cpp.o
+/usr/bin/ranlib libMyFact.a

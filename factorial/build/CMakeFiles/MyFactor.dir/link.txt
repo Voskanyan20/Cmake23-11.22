@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MyFactor.dir/src/main.cpp.o -o MyFactor  factorial/libMyFact.a bigNum/libMyBigNum.a 

@@ -1,0 +1,6 @@
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/calc/build/CMakeFiles/MyCalc.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/calc/build/CMakeFiles/edit_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/calc/build/CMakeFiles/rebuild_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/calc/build/calc/CMakeFiles/MySum.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/calc/build/calc/CMakeFiles/edit_cache.dir
+/home/voskanyan20/Desktop/SystemProgramming/Tasks/23.11.22/calc/build/calc/CMakeFiles/rebuild_cache.dir
